@@ -11,7 +11,7 @@ export class Card {
 
   example1: Project = {
     name: 'Megan Thee Stallion Music Album Browser',
-    description: 'An application with card components, dynamic album detail pages, and route redirection. Deployed on Vercel.',
+    description: 'An application with UI card components, dynamic album detail pages, and route redirection. Deployed on Vercel.',
     skills: 'Technologies used: Angular, TypeScript, HTML, CSS',
     imageUrl: "images/MeganTheeStallion.png",
     linkUrl: "https://megantheestallionmusiclibrary.vercel.app/"
